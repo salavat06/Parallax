@@ -3,4 +3,4 @@
 - CSS 3
 - JS
 
-Can you view [my site](https://salavat06.github.io/Parallax/)
+You can you view [my site](https://salavat06.github.io/Parallax/)
